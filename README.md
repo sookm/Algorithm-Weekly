@@ -1,6 +1,6 @@
 # Algorithm-Weekly
  
-## Turi : Leetcode status 
+### Turi : Leetcode status 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
 
 ## Leetcode Problmes List 
