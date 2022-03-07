@@ -1,9 +1,9 @@
-# Algorithm-Weekly
+# Turi Weekly Algorithm Problems Solved
  
 ### Turi : Leetcode status 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
 
-## Leetcode Problmes List 
+### Leetcode Problmes List 
 | Index | Problems | Difficulty | Status |
 |---| -----------| ---------- | -------- |
 |1| Two Sum|Easy
