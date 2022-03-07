@@ -4,11 +4,11 @@
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
 
 ## Leetcode Problmes List 
-| Index | Difficulty | Status |
-|-------| ---------- | -------- |
-| Two Sum | Easy
-| Add Two Numbers | Medium
-| Longest Substring Without Repeating Characters | Medium
-| Median of Two Sorted Arrays | Hard
-| Longest Palindromic Substring | Medium
-| Zigzag Conversion | Medium
+| Index | Problems | Difficulty | Status |
+|-------| -----------| ---------- | -------- |
+| 1 | Two Sum | Easy
+| 2 | Add Two Numbers | Medium
+| 3 | Longest Substring Without Repeating Characters | Medium
+| 4 | Median of Two Sorted Arrays | Hard
+| 5 | Longest Palindromic Substring | Medium
+| 6 | Zigzag Conversion | Medium
