@@ -1,6 +1,6 @@
 # Turi Weekly Algorithm Problems Solved
  
-### Turi : Leetcode status 
+### Turi : Leetcode stats 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
 
 ### Leetcode Problmes List 
