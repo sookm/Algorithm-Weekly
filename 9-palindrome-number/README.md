@@ -6,7 +6,7 @@
 	<li>For example, <code>121</code> is a palindrome while <code>123</code> is not.</li>
 </ul>
 
-<p>&nbsp;</p>
+</br>
 <p><strong>Example 1:</strong></p>
 
 <pre><strong>Input:</strong> x = 121
