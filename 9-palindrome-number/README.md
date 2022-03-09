@@ -12,7 +12,7 @@ as the difference of even number or odd number
 ✔ Use the concept of String </strong> 
 </pre>
 
-<h3>Easy</h3>
+<strong>Easy</strong>
 <hr><div><p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is palindrome integer.</p>
 
 <p>An integer is a <strong>palindrome</strong> when it reads the same backward as forward.</p>
