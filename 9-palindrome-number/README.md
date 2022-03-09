@@ -5,7 +5,6 @@
 <ul>
 	<li>For example, <code>121</code> is a palindrome while <code>123</code> is not.</li>
 </ul>
-
 </br>
 <p><strong>Example 1:</strong></p>
 
@@ -28,7 +27,7 @@
 <strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome.
 </pre>
 
-<p>&nbsp;</p>
+</br>
 <p><strong>Constraints:</strong></p>
 <ul>
 	<li><code>-2<sup>31</sup>&nbsp;&lt;= x &lt;= 2<sup>31</sup>&nbsp;- 1</code></li>
