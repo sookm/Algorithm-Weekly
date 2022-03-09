@@ -43,8 +43,8 @@
 
 <pre><strong>Initial trial -> Failed</strong> 
 1. when getting input x, need 
-	no.1 condition, for integer type, positive number more than 10 
-	no.2 condition, when x is dived by a power of 10, the numbers of each place should be a palindrome
+  no.1 condition, for integer type, positive number more than 10 
+  no.2 condition, when x is dived by a power of 10, the numbers of each place should be a palindrome
 2. check if the numbers of each place are the same, 
 as the difference of even number or odd number
 
