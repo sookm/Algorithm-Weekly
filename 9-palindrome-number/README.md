@@ -1,4 +1,5 @@
 <h2><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a></h2>
+<p><strong>Notes 📝 </strong></p>
 <pre><strong>Initial trial -> Failed</strong> 
 1. when getting input x, need 
   no.1 condition, for integer type, positive number more than 10 
