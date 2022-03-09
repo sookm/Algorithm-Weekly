@@ -27,14 +27,24 @@ var isPalindrome = function(x) {
 };
 */
 
-// Solution no1 
+/* // Solution no1 
 var isPalindrome = function(x) {
     let reversed = x.toString().split('').reverse().join('')
     return (x.toString()===reversed)
 };
+*/
 
-
-
+// Solution no2
+var isPalindrome = function(x) {
+    let reversedStr = ''
+    let xStr = x.toString()
+    
+    for( let i of xStr ){
+        reversedStr = i + reversedStr
+        //console.log(reversedStr)
+    }
+    return (reversedStr === xStr)
+};
 
 
 
