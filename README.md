@@ -4,7 +4,7 @@
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
 
 ### Leetcode Problmes List 
-passed : 🐰
+passed : 🐇
 passed with solution : 🥕
 | Index | Problems | Difficulty | Status |
 |---| -----------| ---------- | -------- |
