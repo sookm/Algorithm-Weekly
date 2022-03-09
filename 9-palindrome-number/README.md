@@ -42,10 +42,10 @@
 <strong>Notes📝 : </strong>
 
 <ul>
-	<li>Initial trial <li>
-	1. when getting input x, need 
- 	no.1 condition, for integer type, positive number more than 10 
- 	no.2 condition, when x is dived by a power of 10, the numbers of each place should be a palindrome
-	2. check if the numbers of each place are the same, 
-	as the difference of even number or odd number
+	Initial trial : Failed </br>
+	1. when getting input x, need </br>
+ 	no.1 condition, for integer type, positive number more than 10 </br>
+ 	no.2 condition, when x is dived by a power of 10, the numbers of each place should be a palindrome</br>
+	2. check if the numbers of each place are the same, </br>
+	as the difference of even number or odd number</br>
 </ul></div>
