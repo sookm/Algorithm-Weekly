@@ -49,7 +49,7 @@
 as the difference of even number or odd number
 
 <strong>✔ Make sure built-in functions in Javascript</strong> 
-<strong>✔ Not a question to use the concept of decimal numbers </br>
+<strong>✔ Not a question to use the concept of decimal numbers 
 ✔ Use the concept of String </strong> 
 </pre>
 </div>
