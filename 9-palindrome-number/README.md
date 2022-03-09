@@ -1,6 +1,4 @@
-<h2><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a></h2><h3>Easy</h3>
-<strong>Notes 📝  </strong>
-
+<h2><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a></h2>
 <pre><strong>Initial trial -> Failed</strong> 
 1. when getting input x, need 
   no.1 condition, for integer type, positive number more than 10 
@@ -12,6 +10,8 @@ as the difference of even number or odd number
 <strong>✔ Not a question to use the concept of decimal numbers 
 ✔ Use the concept of String </strong> 
 </pre>
+
+<h3>Easy</h3>
 <hr><div><p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is palindrome integer.</p>
 
 <p>An integer is a <strong>palindrome</strong> when it reads the same backward as forward.</p>
@@ -50,19 +50,4 @@ as the difference of even number or odd number
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?
-
-<p>&nbsp;</p>
-<strong>Notes 📝  </strong>
-
-<pre><strong>Initial trial -> Failed</strong> 
-1. when getting input x, need 
-  no.1 condition, for integer type, positive number more than 10 
-  no.2 condition, when x is dived by a power of 10, the numbers of each place should be a palindrome
-2. check if the numbers of each place are the same, 
-as the difference of even number or odd number
-
-<strong>✔ Make sure built-in functions in Javascript</strong> 
-<strong>✔ Not a question to use the concept of decimal numbers 
-✔ Use the concept of String </strong> 
-</pre>
 </div>
