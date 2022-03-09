@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a></h2>
+<h2><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a></h2><strong>Easy</strong>
 <p><strong>Notes 📝 </strong></p>
 <pre><strong>Initial trial -> Failed</strong> 
 1. when getting input x, need 
