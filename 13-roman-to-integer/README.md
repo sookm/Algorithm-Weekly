@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></h2>
 <p><strong>Notes 📝 </strong></p>
-<pre><strong>Initial trial -> Failed</strong> 
+<pre>Initial trial -> Failed 
 idea 1.
     1) get string, bring each string using "let i of s"
     2) use switch condition statements, 
@@ -9,7 +9,7 @@ idea 1.
 idea 2.
     Use replace() functions and Regular Expression  
     There is targetStr()
-</br>
+    
 <strong>Solution</strong> 
 <strong>✔ Use table, length and  
 ✔ Use if statment in case that we have to subtract the first roman numeral from the next one</strong>
