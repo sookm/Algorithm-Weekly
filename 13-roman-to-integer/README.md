@@ -9,9 +9,6 @@ idea 1.
 idea 2.
     Use replace() functions and Regular Expression  
     There is targetStr()
-    
-// Solution -> Use table, length and 
-// use if statment in case that we have to subtract the first roman numeral from the next one
 </br>
 <strong>Solution</strong> 
 <strong>✔ Use table, length and  
