@@ -1,4 +1,26 @@
-<h2><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></h2><h3>Easy</h3><hr><div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
+<h2><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></h2>
+<p><strong>Notes 📝 </strong></p>
+<pre><strong>Initial trial -> Failed</strong> 
+idea 1.
+    1) get string, bring each string using "let i of s"
+    2) use switch condition statements, 
+        for this, elements of s should be integer type 
+        and then plus all of them 
+idea 2.
+    Use replace() functions and Regular Expression  
+    There is targetStr()
+    
+// Solution -> Use table, length and 
+// use if statment in case that we have to subtract the first roman numeral from the next one
+</br>
+<strong>Solution</strong> 
+<strong>✔ Use table, length and  
+✔ Use if statment in case that we have to subtract the first roman numeral from the next one</strong>
+<strong>Keyword</strong><code>table</code><code>length</code><code>case of subtract</code>
+</pre>
+
+
+<h3>Easy</h3><hr><div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 
 <pre><strong>Symbol</strong>       <strong>Value</strong>
 I             1
