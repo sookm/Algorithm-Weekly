@@ -1,7 +1,7 @@
 # *Turi Weekly Algorithm Problems Solved*
-## *✅Think about candidate solutions.
-## *✅Search the better solutions or related methods.
-## *✅Review the problems and notes every week and repeat these.*
+### ✅ *Think about candidate solutions.*
+### ✅ *Search the better solutions or related methods.*
+### ✅ *Review the problems and notes every week and repeat these.*
  
 ### 👩‍💻 *Turi : Leetcode stats* 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
