@@ -17,7 +17,7 @@ idea 2.
 <strong>✔ Use table, length and  
 ✔ Use if statment in case that we have to subtract the first roman numeral from the next one</strong>
 </pre>
-<strong>Keyword</strong><code>table</code><code>length</code><code>case of subtract</code>
+<strong>Keyword : </strong> <code>table</code> <code>length</code> <code>case of subtract</code>
 
 
 
