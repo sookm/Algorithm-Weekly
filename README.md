@@ -1,10 +1,10 @@
-# *Turi Weekly Algorithm Problems Solved*
+# *Turi's Weekly Algorithm Problems Solved*
 1️⃣ ***Think about candidate solutions.*</br>
 2️⃣ *Search the better solutions or related methods.*</br>
 3️⃣ *Review the problems and notes every week and repeat these.* </br></br>
 ✅ *Initial goal : Review 200 Problmes*** </br></br>
 
-### 👩‍💻 *Turi : Leetcode stats* 
+### 👩‍💻 *Turi's : Leetcode stats* 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
 
 ### 🐛 *Leetcode Problmes List*
