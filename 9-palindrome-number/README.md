@@ -11,6 +11,10 @@ as the difference of even number or odd number
 <strong>✔ Not a question to use the concept of decimal numbers 
 ✔ Use the concept of String </strong> 
 </pre>
+<strong>Keyword : </strong> <code>toString()</code> <code>reverse()</code> 
+
+</br></br>
+
 
 <h3>Easy</h3>
 <hr><div><p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is palindrome integer.</p>
