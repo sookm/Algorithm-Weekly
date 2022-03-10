@@ -1,11 +1,14 @@
 # *Turi Weekly Algorithm Problems Solved*
+## *✅Think about candidate solutions.
+## *✅Search the better solutions or related methods.
+## *✅Review the problems and notes every week and repeat these.*
  
-### 📊 *Turi : Leetcode stats* 
+### 👩‍💻 *Turi : Leetcode stats* 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
 
-### Leetcode Problmes List 
-passed : 🐇
-passed with solution : 🥕
+### 🐛 *Leetcode Problmes List*
+- passed : 🐇
+- passed with solution : 🥕
 | Index | Problems | Difficulty | Status |
 |---| -----------| ---------- | -------- |
 |1| Two Sum|Easy|🥕|
