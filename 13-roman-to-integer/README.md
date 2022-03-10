@@ -16,8 +16,9 @@ idea 2.
 <strong>Solution</strong> 
 <strong>✔ Use table, length and  
 ✔ Use if statment in case that we have to subtract the first roman numeral from the next one</strong>
-<strong>Keyword</strong><code>table</code><code>length</code><code>case of subtract</code>
 </pre>
+<strong>Keyword</strong><code>table</code><code>length</code><code>case of subtract</code>
+
 
 
 <h3>Easy</h3><hr><div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
