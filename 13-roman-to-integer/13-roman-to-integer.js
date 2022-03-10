@@ -23,7 +23,8 @@ var romanToInt = function(s) {
 };
 */
 
-// Solution -> Use table 
+// Solution -> Use table, length and 
+// if statment in case that the second place should minus the first place
 var romanToInt = function(s) {
     let table = {
         I: 1,
