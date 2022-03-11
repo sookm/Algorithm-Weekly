@@ -2,7 +2,7 @@
 1️⃣ ***Think about candidate solutions.*</br>
 2️⃣ *Search the better solutions or related methods.*</br>
 3️⃣ *Review the problems and notes every week and repeat these.* </br></br>
-✅ *Initial goal : Review 200 Problmes*** </br></br>
+✅ *My Initial Goal : To Review 200 Problmes*** </br></br>
 
 ### 👩‍💻 *Turi's : Leetcode stats* 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Turituri&theme=nord)
