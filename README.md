@@ -1,4 +1,4 @@
-# *Turi's Weekly Algorithm Problems Solved*
+# *Turi's Weekly Algorithm Problems*
 1️⃣ ***Think about candidate solutions.*</br>
 2️⃣ *Search the better solutions or related methods.*</br>
 3️⃣ *Review the problems and notes every week and repeat these.* </br></br>
