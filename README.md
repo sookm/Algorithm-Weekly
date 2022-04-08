@@ -31,5 +31,5 @@ passed with solution : 🥕
 |17| Letter Combinations of a Phone Number|Medium
 |18| 4Sum|Medium
 |19| Remove Nth Node From End of List|Medium
-|20| Valid Parentheses|Easy
+|20| Valid Parentheses|Easy |🥕|
 |485| Max Consecutive Ones |Easy |🥕|
